@@ -1,6 +1,6 @@
 # Dynamic Models for Building Energy Management
 
-Authors: Emile HEYBERGER, Félix LABIDI, Perrine MEZIAT
+Authors: Emile HEYBERGER, Félix LABIDI, Perrine MEZIAT-BURDIN, Quentin SAMUDIO
 
 Date: 30/05/2022
 
