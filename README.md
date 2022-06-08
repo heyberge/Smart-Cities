@@ -10,7 +10,7 @@ The notebooks can be run interactively on MyBinder.com by clicking on the button
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heyberge/Smart-Cities/HEAD)
 
-Report is smart_cities.ipynb
+Report is in smart_cities.ipynb
 
 ## Introduction 
 
